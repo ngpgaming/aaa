@@ -1,0 +1,777 @@
+[
+  {
+    "date": "2025-11-12",
+    "stats": {
+      "All": {
+        "depositNumber": 1801,
+        "depositAmount": 1718655,
+        "numBettors": 5219,
+        "totalBet": 9261580.96,
+        "numFirstDeposit": 899,
+        "firstDepositAmount": 900365
+      },
+      "Tier 1": {
+        "depositNumber": 867,
+        "depositAmount": 715683,
+        "numBettors": 1872,
+        "totalBet": 2528009.74,
+        "numFirstDeposit": 383,
+        "firstDepositAmount": 394165
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-13",
+    "stats": {
+      "All": {
+        "depositNumber": 1783,
+        "depositAmount": 1783703,
+        "numBettors": 5204,
+        "totalBet": 9775499.48,
+        "numFirstDeposit": 977,
+        "firstDepositAmount": 929855
+      },
+      "Tier 1": {
+        "depositNumber": 942,
+        "depositAmount": 771235,
+        "numBettors": 1719,
+        "totalBet": 2899742.85,
+        "numFirstDeposit": 447,
+        "firstDepositAmount": 460954
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "stats": {
+      "All": {
+        "depositNumber": 1903,
+        "depositAmount": 1864580,
+        "numBettors": 5103,
+        "totalBet": 9856587.37,
+        "numFirstDeposit": 902,
+        "firstDepositAmount": 985122
+      },
+      "Tier 1": {
+        "depositNumber": 899,
+        "depositAmount": 782155,
+        "numBettors": 1895,
+        "totalBet": 2856144.21,
+        "numFirstDeposit": 485,
+        "firstDepositAmount": 452680
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-10",
+    "stats": {
+      "All": {
+        "depositNumber": 1944,
+        "depositAmount": 1699045,
+        "numBettors": 5002,
+        "totalBet": 8916254.14,
+        "numFirstDeposit": 859,
+        "firstDepositAmount": 950525
+      },
+      "Tier 1": {
+        "depositNumber": 873,
+        "depositAmount": 754185,
+        "numBettors": 1872,
+        "totalBet": 2790009.52,
+        "numFirstDeposit": 451,
+        "firstDepositAmount": 420165
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-09",
+    "stats": {
+      "All": {
+        "depositNumber": 1855,
+        "depositAmount": 1709415,
+        "numBettors": 4986,
+        "totalBet": 9356497.74,
+        "numFirstDeposit": 906,
+        "firstDepositAmount": 989631
+      },
+      "Tier 1": {
+        "depositNumber": 900,
+        "depositAmount": 789360,
+        "numBettors": 1809,
+        "totalBet": 3156827.16,
+        "numFirstDeposit": 426,
+        "firstDepositAmount": 400936
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-15",
+    "stats": {
+      "All": {
+        "depositNumber": 1757,
+        "depositAmount": 1692905,
+        "numBettors": 5318,
+        "totalBet": 9984305.62,
+        "numFirstDeposit": 888,
+        "firstDepositAmount": 937950
+      },
+      "Tier 1": {
+        "depositNumber": 836,
+        "depositAmount": 802160,
+        "numBettors": 1957,
+        "totalBet": 3254761.47,
+        "numFirstDeposit": 413,
+        "firstDepositAmount": 450215
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-14",
+    "stats": {
+      "All": {
+        "depositNumber": 1824,
+        "depositAmount": 1712708,
+        "numBettors": 5180,
+        "totalBet": 9530122.05,
+        "numFirstDeposit": 925,
+        "firstDepositAmount": 973490
+      },
+      "Tier 1": {
+        "depositNumber": 893,
+        "depositAmount": 762145,
+        "numBettors": 1802,
+        "totalBet": 2804562.04,
+        "numFirstDeposit": 439,
+        "firstDepositAmount": 433565
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-16",
+    "stats": {
+      "All": {
+        "depositNumber": 1836,
+        "depositAmount": 1838638,
+        "numBettors": 5409,
+        "totalBet": 9873201.47,
+        "numFirstDeposit": 955,
+        "firstDepositAmount": 985747
+      },
+      "Tier 1": {
+        "depositNumber": 894,
+        "depositAmount": 843215,
+        "numBettors": 1999,
+        "totalBet": 3650274.16,
+        "numFirstDeposit": 463,
+        "firstDepositAmount": 495205
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-17",
+    "stats": {
+      "All": {
+        "depositNumber": 1708,
+        "depositAmount": 1741650,
+        "numBettors": 3852,
+        "totalBet": 9147632.94,
+        "numFirstDeposit": 879,
+        "firstDepositAmount": 780525
+      },
+      "Tier 1": {
+        "depositNumber": 791,
+        "depositAmount": 782540,
+        "numBettors": 1427,
+        "totalBet": 3043211.46,
+        "numFirstDeposit": 437,
+        "firstDepositAmount": 398742
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-18",
+    "stats": {
+      "All": {
+        "depositNumber": 1549,
+        "depositAmount": 1607620,
+        "numBettors": 3699,
+        "totalBet": 8510333.74,
+        "numFirstDeposit": 895,
+        "firstDepositAmount": 754174
+      },
+      "Tier 1": {
+        "depositNumber": 801,
+        "depositAmount": 751338,
+        "numBettors": 1499,
+        "totalBet": 2653994.71,
+        "numFirstDeposit": 448,
+        "firstDepositAmount": 402745
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-19",
+    "stats": {
+      "All": {
+        "depositNumber": 1608,
+        "depositAmount": 1657987,
+        "numBettors": 3927,
+        "totalBet": 9026478.28,
+        "numFirstDeposit": 902,
+        "firstDepositAmount": 795055
+      },
+      "Tier 1": {
+        "depositNumber": 783,
+        "depositAmount": 724059,
+        "numBettors": 1529,
+        "totalBet": 2846321.85,
+        "numFirstDeposit": 436,
+        "firstDepositAmount": 389630
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-20",
+    "stats": {
+      "All": {
+        "depositNumber": 1473,
+        "depositAmount": 1502560,
+        "numBettors": 3702,
+        "totalBet": 8230177.48,
+        "numFirstDeposit": 871,
+        "firstDepositAmount": 673020
+      },
+      "Tier 1": {
+        "depositNumber": 697,
+        "depositAmount": 698754,
+        "numBettors": 1487,
+        "totalBet": 2614698.57,
+        "numFirstDeposit": 419,
+        "firstDepositAmount": 359845
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-21",
+    "stats": {
+      "All": {
+        "depositNumber": 1592,
+        "depositAmount": 1458985,
+        "numBettors": 3842,
+        "totalBet": 8742041.29,
+        "numFirstDeposit": 896,
+        "firstDepositAmount": 699870
+      },
+      "Tier 1": {
+        "depositNumber": 675,
+        "depositAmount": 608745,
+        "numBettors": 1524,
+        "totalBet": 3074538.06,
+        "numFirstDeposit": 401,
+        "firstDepositAmount": 329872
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-22",
+    "stats": {
+      "All": {
+        "depositNumber": 1686,
+        "depositAmount": 1600012,
+        "numBettors": 3914,
+        "totalBet": 9278457.08,
+        "numFirstDeposit": 967,
+        "firstDepositAmount": 785425
+      },
+      "Tier 1": {
+        "depositNumber": 748,
+        "depositAmount": 700560,
+        "numBettors": 1586,
+        "totalBet": 2784654.81,
+        "numFirstDeposit": 458,
+        "firstDepositAmount": 406523
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-23",
+    "stats": {
+      "All": {
+        "depositNumber": 1743,
+        "depositAmount": 1619345,
+        "numBettors": 3899,
+        "totalBet": 9701576.64,
+        "numFirstDeposit": 987,
+        "firstDepositAmount": 806740
+      },
+      "Tier 1": {
+        "depositNumber": 786,
+        "depositAmount": 716935,
+        "numBettors": 1699,
+        "totalBet": 3046579.17,
+        "numFirstDeposit": 469,
+        "firstDepositAmount": 420654
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-24",
+    "stats": {
+      "All": {
+        "depositNumber": 1809,
+        "depositAmount": 1684350,
+        "numBettors": 3807,
+        "totalBet": 9016742.88,
+        "numFirstDeposit": 964,
+        "firstDepositAmount": 783102
+      },
+      "Tier 1": {
+        "depositNumber": 797,
+        "depositAmount": 739466,
+        "numBettors": 1754,
+        "totalBet": 3285041.79,
+        "numFirstDeposit": 477,
+        "firstDepositAmount": 409822
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-25",
+    "stats": {
+      "All": {
+        "depositNumber": 1768,
+        "depositAmount": 1697352,
+        "numBettors": 3740,
+        "totalBet": 9528749.76,
+        "numFirstDeposit": 984,
+        "firstDepositAmount": 805476
+      },
+      "Tier 1": {
+        "depositNumber": 799,
+        "depositAmount": 742102,
+        "numBettors": 1801,
+        "totalBet": 2933745.17,
+        "numFirstDeposit": 456,
+        "firstDepositAmount": 391475
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-26",
+    "stats": {
+      "All": {
+        "depositNumber": 1776,
+        "depositAmount": 1689640,
+        "numBettors": 3975,
+        "totalBet": 9752103.05,
+        "numFirstDeposit": 990,
+        "firstDepositAmount": 826743
+      },
+      "Tier 1": {
+        "depositNumber": 801,
+        "depositAmount": 727625,
+        "numBettors": 1863,
+        "totalBet": 3145787.34,
+        "numFirstDeposit": 453,
+        "firstDepositAmount": 403145
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-27",
+    "stats": {
+      "All": {
+        "depositNumber": 1767,
+        "depositAmount": 1658066,
+        "numBettors": 3914,
+        "totalBet": 9452037.22,
+        "numFirstDeposit": 974,
+        "firstDepositAmount": 748752
+      },
+      "Tier 1": {
+        "depositNumber": 802,
+        "depositAmount": 762595,
+        "numBettors": 1903,
+        "totalBet": 3457862.07,
+        "numFirstDeposit": 448,
+        "firstDepositAmount": 412754
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-28",
+    "stats": {
+      "All": {
+        "depositNumber": 1699,
+        "depositAmount": 1576272,
+        "numBettors": 3852,
+        "totalBet": 9985321.75,
+        "numFirstDeposit": 952,
+        "firstDepositAmount": 699254
+      },
+      "Tier 1": {
+        "depositNumber": 742,
+        "depositAmount": 705230,
+        "numBettors": 1853,
+        "totalBet": 3521007.46,
+        "numFirstDeposit": 428,
+        "firstDepositAmount": 436785
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-29",
+    "stats": {
+      "All": {
+        "depositNumber": 1725,
+        "depositAmount": 1548420,
+        "numBettors": 3917,
+        "totalBet": 9352075.23,
+        "numFirstDeposit": 969,
+        "firstDepositAmount": 714250
+      },
+      "Tier 1": {
+        "depositNumber": 765,
+        "depositAmount": 683100,
+        "numBettors": 1899,
+        "totalBet": 3675431.29,
+        "numFirstDeposit": 439,
+        "firstDepositAmount": 399564
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-11-30",
+    "stats": {
+      "All": {
+        "depositNumber": 1732,
+        "depositAmount": 1597852,
+        "numBettors": 3856,
+        "totalBet": 8873024.19,
+        "numFirstDeposit": 994,
+        "firstDepositAmount": 740522
+      },
+      "Tier 1": {
+        "depositNumber": 759,
+        "depositAmount": 702450,
+        "numBettors": 1957,
+        "totalBet": 3257400.56,
+        "numFirstDeposit": 446,
+        "firstDepositAmount": 415720
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-01",
+    "stats": {
+      "All": {
+        "depositNumber": 1729,
+        "depositAmount": 1540676,
+        "numBettors": 3962,
+        "totalBet": 9120645.27,
+        "numFirstDeposit": 986,
+        "firstDepositAmount": 788521
+      },
+      "Tier 1": {
+        "depositNumber": 732,
+        "depositAmount": 687455,
+        "numBettors": 2001,
+        "totalBet": 2963354.78,
+        "numFirstDeposit": 439,
+        "firstDepositAmount": 397805
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-02",
+    "stats": {
+      "All": {
+        "depositNumber": 1754,
+        "depositAmount": 1628843,
+        "numBettors": 3996,
+        "totalBet": 9475204.66,
+        "numFirstDeposit": 994,
+        "firstDepositAmount": 748225
+      },
+      "Tier 1": {
+        "depositNumber": 760,
+        "depositAmount": 726385,
+        "numBettors": 1984,
+        "totalBet": 2879264.07,
+        "numFirstDeposit": 444,
+        "firstDepositAmount": 421750
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-03",
+    "stats": {
+      "All": {
+        "depositNumber": 1721,
+        "depositAmount": 1593035,
+        "numBettors": 3751,
+        "totalBet": 8962501.37,
+        "numFirstDeposit": 919,
+        "firstDepositAmount": 695740
+      },
+      "Tier 1": {
+        "depositNumber": 748,
+        "depositAmount": 697805,
+        "numBettors": 1998,
+        "totalBet": 3025787.95,
+        "numFirstDeposit": 420,
+        "firstDepositAmount": 391745
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-04",
+    "stats": {
+      "All": {
+        "depositNumber": 1754,
+        "depositAmount": 1609273,
+        "numBettors": 3857,
+        "totalBet": 9548715.24,
+        "numFirstDeposit": 966,
+        "firstDepositAmount": 700154
+      },
+      "Tier 1": {
+        "depositNumber": 757,
+        "depositAmount": 700528,
+        "numBettors": 1979,
+        "totalBet": 3254871.05,
+        "numFirstDeposit": 445,
+        "firstDepositAmount": 401587
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-05",
+    "stats": {
+      "All": {
+        "depositNumber": 1750,
+        "depositAmount": 1613964,
+        "numBettors": 3889,
+        "totalBet": 9144502.97,
+        "numFirstDeposit": 946,
+        "firstDepositAmount": 706325
+      },
+      "Tier 1": {
+        "depositNumber": 766,
+        "depositAmount": 718754,
+        "numBettors": 2001,
+        "totalBet": 3398437.48,
+        "numFirstDeposit": 439,
+        "firstDepositAmount": 410228
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-06",
+    "stats": {
+      "All": {
+        "depositNumber": 1711,
+        "depositAmount": 1572885,
+        "numBettors": 3985,
+        "totalBet": 9963217.42,
+        "numFirstDeposit": 952,
+        "firstDepositAmount": 684710
+      },
+      "Tier 1": {
+        "depositNumber": 782,
+        "depositAmount": 721645,
+        "numBettors": 1974,
+        "totalBet": 2967448.91,
+        "numFirstDeposit": 433,
+        "firstDepositAmount": 427518
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-07",
+    "stats": {
+      "All": {
+        "depositNumber": 1399,
+        "depositAmount": 1547205,
+        "numBettors": 3251,
+        "totalBet": 8417527.91,
+        "numFirstDeposit": 740,
+        "firstDepositAmount": 702145
+      },
+      "Tier 1": {
+        "depositNumber": 701,
+        "depositAmount": 685210,
+        "numBettors": 1584,
+        "totalBet": 2784507.98,
+        "numFirstDeposit": 398,
+        "firstDepositAmount": 358711
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-08",
+    "stats": {
+      "All": {
+        "depositNumber": 1478,
+        "depositAmount": 1652440,
+        "numBettors": 3301,
+        "totalBet": 8952100.17,
+        "numFirstDeposit": 754,
+        "firstDepositAmount": 716980
+      },
+      "Tier 1": {
+        "depositNumber": 735,
+        "depositAmount": 701584,
+        "numBettors": 1599,
+        "totalBet": 2899857.73,
+        "numFirstDeposit": 402,
+        "firstDepositAmount": 397937
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  },
+  {
+    "date": "2025-12-09",
+    "stats": {
+      "All": {
+        "depositNumber": 1408,
+        "depositAmount": 1502875,
+        "numBettors": 3271,
+        "totalBet": 8254319.67,
+        "numFirstDeposit": 761,
+        "firstDepositAmount": 721589
+      },
+      "Tier 1": {
+        "depositNumber": 717,
+        "depositAmount": 698250,
+        "numBettors": 1609,
+        "totalBet": 2975204.49,
+        "numFirstDeposit": 393,
+        "firstDepositAmount": 390250
+      }
+    },
+    "uids": {
+      "All": [],
+      "Tier 1": []
+    }
+  }
+]
