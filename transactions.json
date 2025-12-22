@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2025-12-23 11:30:00",
+    "balance": 50500,
+    "remarks": "DAILY SALARY , 23 DECEMBER"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2025-12-23 11:15:00",
