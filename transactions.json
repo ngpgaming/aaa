@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "AGENT SALARY",
+    "time": "2026-01-04 10:15:00",
+    "balance": 10950,
+    "remarks": "DAILY SALARY , 04 JANUARY"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-01-04 08:10:00",
