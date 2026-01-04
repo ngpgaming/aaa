@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT BONUS",
+    "detail": "AGENT BONUS",
+    "time": "2026-01-04 11:20:00",
+    "balance": 15000,
+    "remarks": "ADS FUNDS , 04 JANUARY"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-01-04 10:32:00",
