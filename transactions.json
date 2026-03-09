@@ -1,5 +1,12 @@
 [
   {
+    "type": "AGENT SALARY",
+    "detail": "JALWA",
+    "time": "2026-03-09 11:28:00",
+    "balance": 1688,
+    "remarks": "-"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
     "time": "2026-01-12 10:55:00",
